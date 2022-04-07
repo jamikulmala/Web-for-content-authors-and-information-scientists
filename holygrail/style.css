@@ -1,0 +1,18 @@
+.container {
+  min-height: 600px;
+  display:flex;
+  flex-flow: column;
+}
+
+.swot {
+  border-color: blue;
+  border-style: groove;
+  margin: 1px;
+  display: flex;
+  flex: 1;
+}
+
+.content-container{
+  display: flex;
+  flex-direction: row;
+}

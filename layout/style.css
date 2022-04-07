@@ -1,0 +1,16 @@
+
+aside{
+    float: right;
+    width: 30%;
+}
+
+article{
+    float: left;
+    width: 70%
+}
+
+footer{
+    width: 100%;
+    float: left;
+    text-align: center;
+}

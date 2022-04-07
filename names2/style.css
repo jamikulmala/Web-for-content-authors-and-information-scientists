@@ -1,0 +1,47 @@
+header{
+    color: bisque;
+    background-color: bisque;
+}
+
+h1{
+    background-color: bisque;
+    color: bisque;
+}
+
+footer{
+    background-color: bisque;
+    float: left;
+    width: 100%;
+}
+
+th{
+    background: bisque;
+    text-align: center;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+}
+
+table{
+    display:flex;
+    flex-flow: column;
+    float: left;
+  width: 19%;
+  border-collapse: collapse;
+  overflow: scroll;
+  position: absolute;
+  top: 20%;
+
+}
+
+h2{
+    visibility:hidden;
+}
+
+a{
+    visibility: hidden;
+}
+
+hr{
+    visibility:hidden;
+}
